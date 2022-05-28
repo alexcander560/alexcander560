@@ -1,11 +1,13 @@
 ### Hi there 👋 
 
-Telegram: https://t.me/alexcander560
+✏️ Telegram: https://t.me/alexcander560
 
 📭 Mail: alexcander560@mail.ru
 
-https://leetcode.com/alexcander560/
+📝 [leetcode](https://leetcode.com/alexcander560/)
 
-https://app.codesignal.com/profile/alexcander560
+📋 [codesignal](https://app.codesignal.com/profile/alexcander560)
 
-🎲 [codingame]([https://github.com/alexcander560](https://www.codingame.com/profile/723739b5e0151c8eec037c870c14d2cf3775844))
+📙 [sololearn](https://www.sololearn.com/profile/14132487)
+
+🎲 [codingame](https://github.com/alexcander560](https://www.codingame.com/profile/723739b5e0151c8eec037c870c14d2cf3775844))
