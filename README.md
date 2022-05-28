@@ -2,8 +2,6 @@
 
 ✏️ Telegram: https://t.me/alexcander560
 
-📭 Mail: alexcander560@mail.ru
-
 📝 [leetcode](https://leetcode.com/alexcander560/)
 
 📋 [codesignal](https://app.codesignal.com/profile/alexcander560)
