@@ -8,4 +8,4 @@
 
 📙 [sololearn](https://www.sololearn.com/profile/14132487)
 
-🎲 [codingame](https://github.com/alexcander560](https://www.codingame.com/profile/723739b5e0151c8eec037c870c14d2cf3775844))
+🎲 [codingame](https://github.com/alexcander560](https://www.codingame.com/profile/723739b5e0151c8eec037c870c14d2cf3775844)
